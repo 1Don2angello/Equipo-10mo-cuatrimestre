@@ -57,35 +57,48 @@ El juego estara remontado en la epoca  Preclásico, en el cual los mayas tiene m
 #### Objetos
 - Descripción de objetos importantes.
 
+
 #### Enemigos y obstáculos
 - Tipos de enemigos y cómo funcionan.
+- Aluxes : son pequeño enimigos el cual funcionara como prueba de entrenamiento 
+y lo van a atacar
+-Boss :  son cada jefe dependiendo el nivel que este el cual la manera de matar al player es por turnos
 
 #### Niveles
 - Descripción de los diferentes niveles o escenarios.
+son 5 niveles diferentes y un ecenario para el inicio de la historia , el cual 
+cada nivel va ser diferente.
 
 ### Arte
 #### Estilo visual
 - ¿Qué estilo de arte tendrá el juego?
+El estilo visual del juego va ser estilo pixel art 2d , con partes oscuras 
+y escenarios  un poco terrorifico
 
 #### Personajes
 - Detalles del diseño de personajes.
+-El persoanje principal va ser un honbre adulto de 25 años , el cual mide 1.68 , pelo largo , tes morena y con vestimentas de la epoca maya 
+
 
 #### Escenarios
-- Detalles del diseño de escenarios.
+- Contamos con 5 escenarios ditintos dependiendo del nivel que vaya avanzado el 
+jugador , ya que tenemos el hogar del protagonista que en si todo estara basado en la jungla , cenotes y construcciones mayas.
 
 ### Sonido y Música
 - Descripción del diseño sonoro del juego.
 
 ### Tecnología
 #### Motor de Juego
-- ¿Qué motor de juego utilizarás?
+- El motor del juego estara basado en unity
 
 #### Requerimientos
-- Requerimientos técnicos y de hardware.
+- windows 10 a 11
 
 ### Planificación
-- Timeline de desarrollo.
-- Milestones.
+-   Fase de ideas : 2 semanas
+-  Fase de desarollo: 3 meses 
+- Fase de pruebas y lanzamiento: 1 mes
+
 
 ### Anexos
 - Cualquier material adicional como concept art, tablas, etc.
